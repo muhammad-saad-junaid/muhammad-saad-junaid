@@ -6,14 +6,15 @@
 ---
 
 ## 🚀 About Me
-Computer Engineering student in the final stages of my degree specializing in Computer Networks, Database Systems, and AI/ML. Currently seeking a software internship for Summer 2026.
+Computer Engineering student in the final stages of my degree specializing in Computer Networks, Database Systems and Python Development. Currently seeking a software internship for Summer 2026.
 
 ---
 
 ## 🛠️ Skills
 - **Databases:** SQL Server, T-SQL, Stored Procedures
 - **Networks:** Cisco Packet Tracer, OSPF, VLAN, TCP/IP
-- **Dev Tools:** VS Code, Git, Django, REST API, MATLAB, C++
+- **Dev Tools:** VS Code, Git, MATLAB, C++
+- **Programming:** Python, Java, C++, SQL
 
 ---
 
