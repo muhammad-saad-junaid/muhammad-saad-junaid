@@ -11,7 +11,6 @@ Computer Engineering student in the final stages of my degree specializing in Co
 ---
 
 ## 🛠️ Skills
-- **AI/ML:** Python, PyTorch, Deep Learning, NLP, Scikit-learn
 - **Databases:** SQL Server, T-SQL, Stored Procedures
 - **Networks:** Cisco Packet Tracer, OSPF, VLAN, TCP/IP
 - **Dev Tools:** VS Code, Git, Django, REST API, MATLAB, C++
@@ -21,4 +20,16 @@ Computer Engineering student in the final stages of my degree specializing in Co
 ## 📂 Projects
 | Project | Description | Tech |
 |--------|-------------|------|
-|
+| [Enterprise Network Design](https://github.com/muhammad-saad-junaid/Enterprise-Network-Design) | 3-site company network with OSPF, VLAN, ACLs | Cisco Packet Tracer |
+| [University Database System](https://github.com/muhammad-saad-junaid/University-Database-System) | Normalized DB with triggers, stored procedures, audit logging | SQL Server, T-SQL |
+
+---
+
+## 📄 Resume
+[View My Resume](./Muhammad_Saad_Junaid_Resume.pdf)
+
+---
+
+## 🏅 Certifications
+- SQL (Basic) — HackerRank
+- SQL (Intermediate) — HackerRank
